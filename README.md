@@ -1,2 +1,3 @@
 # bookbot
-Guided project
+Guided Project
+BookBot is my first project!
